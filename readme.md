@@ -1,4 +1,8 @@
-`composer install`
+`composer install` 
 `vagrant up`
 
-bam
+
+bam* 
+
+
+*assuming you have Vagrant and Composer
